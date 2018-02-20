@@ -1,0 +1,8 @@
+{
+  "name": "Mbd1DemoWeek4_Start",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
